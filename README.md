@@ -1,6 +1,4 @@
-https://camo.githubusercontent.com/21c5615c777c38ed01c07a0d8125446ba7e35a2d1891b846c9a9dc181f9c76a3/68747470733a2f2f74656e6f722e636f6d2f656e2d47422f766965772f636f64696e672d6769662d31383635373831302e676966
-
-# 💫                                                            Hi 👋! I am Sahil:
+# 💫 Hi 👋! I am Sahil:
 "Hi, I'm Sahil, a passionate Computer Science Engineering student deeply interested in coding and exploring the vast realm of technology..<br><br>🔭 I'am an aspiring Software Engineer currently polishing my Problem Solving and Development Skills.<br><br>⚡ In my free time, I solve problems on platforms like GFG and LeetCode and read tech articles.<br><br>📖I am a passionate coder, nature enthusiast, and avid hiker. Capturing beauty through my lens. 📸”<br><br> 📫 How to reach me sahilchauhan0603@gmail.com
 
 
