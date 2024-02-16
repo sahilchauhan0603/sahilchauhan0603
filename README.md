@@ -1,5 +1,5 @@
 # 💫                                                            Hi 👋! I am Sahil:
-"Hi, I'm Sahil, a passionate Computer Science Engineering student deeply interested in coding and exploring the vast realm of technology..<br><br>🔭 I'am an aspiring Software Engineer currently polishing my Problem Solving and Development Skills.<br><br>⚡ In my free time, I solve problems on platforms like GFG and LeetCode and read tech articles.<br><br>📖I am a passionate coder, nature enthusiast, and avid hiker. Capturing beauty through my lens. 📸”
+"Hi, I'm Sahil, a passionate Computer Science Engineering student deeply interested in coding and exploring the vast realm of technology..<br><br>🔭 I'am an aspiring Software Engineer currently polishing my Problem Solving and Development Skills.<br><br>⚡ In my free time, I solve problems on platforms like GFG and LeetCode and read tech articles.<br><br>📖I am a passionate coder, nature enthusiast, and avid hiker. Capturing beauty through my lens. 📸”<br><br> 📫 How to reach me sahilchauhan0603@gmail.com
 
 
 ## 🌐 Socials:
