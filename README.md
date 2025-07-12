@@ -86,3 +86,5 @@
 <div align="center">
   <img src="https://github.com/sahilchauhan0603/sahilchauhan0603/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+![Snake animation](https://github.com/sahilchauhan0603/sahilchauhan0603/blob/output/snake.svg)
