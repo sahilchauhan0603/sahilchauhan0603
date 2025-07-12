@@ -1,6 +1,6 @@
 <!-- Header with Animated Banner -->
 <div align="center">
-  <img src="https://github.com/sahilchauhan0603/sahilchauhan0603/blob/main/assets/banner.gif?raw=true" alt="Sahil's Banner" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5hZ3R5d2Z1bW5qZzF5a3VlZ2N4dGJ2eGZ2NnBicWZ6bWZ6eGZ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Banner" width="100%"/>
 </div>
 
 # 💫 Hi, I'm Sahil Chauhan! 👋 
@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://github.com/sahilchauhan0603/sahilchauhan0603/blob/main/assets/coding.gif?raw=true" width="300" align="right" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ5Z2R6eG1sZ2x0dXJtZzR2eGZ6dGJ2eGZ2NnBicWZ6bWZ6eGZ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right" alt="Coding Animation">
 </div>
 
 - 🔭 Currently working on **MERN stack projects**
@@ -69,7 +69,7 @@
 
 ---
 
-## � Coding Profiles
+## 👨‍💻 Coding Profiles
 
 <div align="center">
   <a href="https://leetcode.com/sahil0603/">
@@ -129,7 +129,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilchauhan0603&label=Profile%20views&color=0e75b6&style=flat" alt="sahilchauhan0603" /> 
+  <img src="https://komarev.com/ghpvc/?username=sahilchauhan0603&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
   <a href="https://github.com/sahilchauhan0603?tab=followers">
     <img src="https://img.shields.io/github/followers/sahilchauhan0603?label=Followers&style=social" alt="GitHub Followers">
   </a>
