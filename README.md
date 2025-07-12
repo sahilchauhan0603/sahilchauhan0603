@@ -1,6 +1,6 @@
 <!-- Header with Animated Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5hZ3R5d2Z1bW5qZzF5a3VlZ2N4dGJ2eGZ2NnBicWZ6bWZ6eGZ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Banner" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5hZ3R5d2Z1bW5qZzF5a3VlZ2N4dGJ2eGZ2NnBicWZ6bWZ6eGZ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Banner" width="600" height="300"/>
 </div>
 
 # 💫 Hi, I'm Sahil Chauhan! 👋 
@@ -21,7 +21,7 @@
 - 🌱 Learning **AWS Cloud Architecture & Microservices**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Node.js or Competitive Programming**
-- ⚡ Fun fact: **I can solve Rubik's cube in under 2 minutes**
+- ⚡ Fun fact: **I have a deep passion and strong knowledge of cars — from understanding engine specs and performance to tracking the latest models and innovations in the automotive industry.**
 - 📫 How to reach me: **[sahilchauhan0603@gmail.com](mailto:sahilchauhan0603@gmail.com)**
 
 ---
@@ -37,12 +37,12 @@
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
