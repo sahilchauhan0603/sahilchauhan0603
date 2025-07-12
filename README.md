@@ -72,13 +72,13 @@
 ## � Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/sahilchauhan0603/">
+  <a href="https://leetcode.com/sahil0603/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/sahilchauhan0603">
+  <a href="https://www.geeksforgeeks.org/user/sahilchaucyel/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
-  <a href="https://www.codechef.com/users/sahilchauhan06">
+  <a href="https://www.codechef.com/users/nice_king_802">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
   </a>
 </div>
@@ -96,13 +96,13 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/sahil-chauhan-a6a626265">
+  <a href="https://www.linkedin.com/in/sahil-chauhan-a6a626265/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/TheSahil061003">
+  <a href="https://x.com/TheSahil061003">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://instagram.com/sahilchauhan0603">
+  <a href="https://www.instagram.com/sahilchauhan0603/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:sahilchauhan0603@gmail.com">
