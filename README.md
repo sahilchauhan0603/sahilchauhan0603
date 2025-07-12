@@ -120,14 +120,6 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sahilchauhan0603/sahilchauhan0603/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilchauhan0603&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
   <a href="https://github.com/sahilchauhan0603?tab=followers">
