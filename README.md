@@ -6,7 +6,7 @@
 # 💫 Hi, I'm Sahil Chauhan! 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF80&width=500&lines=Full-Stack+Developer;Competitive+Programmer;Open-Source+Contributor;Tech+Blogger;Photographer%20%F0%9F%93%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF80&width=500&lines=Full-Stack+Web+Developer;Competitive+Programmer;Open-Source+Contributor;Tech+Blogger;Cricket+Enthusiast%20%F0%9F%93%B8" alt="Typing SVG" />
 </div>
 
 ---
@@ -28,6 +28,18 @@
 
 ## 🛠 Tech Stack
 
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -44,10 +56,31 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🛠 Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 🏆 Achievements & Certifications
+
+### 🏅 Hackathons & Competitions
+<img src="https://img.shields.io/badge/SIH_Internal_Hackathon_2024-Qualified-blue?style=for-the-badge&logo=codechef&logoColor=white" alt="SIH Hackathon Qualified">  
+<img src="https://img.shields.io/badge/Hackathon-Finalist-green?style=for-the-badge&logo=codeforces&logoColor=white" alt="Hackathon Finalist">
+
+### 📜 Certifications
+<img src="https://img.shields.io/badge/IIT_Bombay-Advanced_Java_&_SQL-orange?style=for-the-badge&logo=iit&logoColor=white" alt="IIT Bombay Certified">  
+<img src="https://img.shields.io/badge/GeeksforGeeks-ML_&_Data_Science-blue?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Certified">  
+
+### 🎓 Learning & Development
+<img src="https://img.shields.io/badge/Google-Data_Analytics_Certificate-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Certified">
 
 ---
 
