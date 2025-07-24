@@ -122,7 +122,7 @@
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/ERP_Student) 
 [![Live](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://erp-student-sm4v.onrender.com/)
 ![MERN](https://img.shields.io/badge/MERN-00C200?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 > Institutional management solution for BPIT  
 ✨ **Key Features**:  
