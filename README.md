@@ -84,6 +84,69 @@
 
 ---
 
+## 📌 Pinned Projects
+
+### 🎥 JobQuest - AI-Powered Job Matching Platform
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/JobQuest) 
+[![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=streamlit&logoColor=white)](https://jobquest-n8r2.onrender.com/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+> Revolutionizing job search with intelligent matching and real-time tracking  
+✨ **Key Features**:  
+- AI-driven job recommendations  
+- Application status dashboard  
+- Automated email notifications  
+- Employer analytics portal  
+
+---
+
+### 🏢 K&N TaxMarks Advisors - Professional Services Portal
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/K-N_TaxMarks_Advisors) 
+[![Live](https://img.shields.io/badge/Live_Demo-FF6F61?style=for-the-badge&logo=heroku&logoColor=white)](https://kandn-taxmarks-advisors.onrender.com/)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+> Comprehensive tax and legal advisory platform  
+✨ **Key Features**:  
+- Client management system  
+- Secure document sharing  
+- Appointment scheduling  
+- Billing and invoicing  
+
+---
+
+### 🏫 BPIT CampusPro - College ERP System
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/ERP_Student) 
+[![Live](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://erp-student-sm4v.onrender.com/)
+![MERN](https://img.shields.io/badge/MERN-00C200?style=flat-square&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+
+> Institutional management solution for BPIT  
+✨ **Key Features**:  
+- Student registration portal  
+- Faculty dashboard  
+- Attendance tracking  
+- Grade management system  
+
+<details>
+<summary><b>🖌️ More Projects</b></summary>
+
+#### 🎨 Canvas Draw - Collaborative Drawing App
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/Canvas_Draw_VS) 
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://canvas-draw-wheat.vercel.app/)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+> Real-time collaborative drawing platform  
+✨ **Features**: Multi-user canvas, color palette, brush customization
+</details>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
