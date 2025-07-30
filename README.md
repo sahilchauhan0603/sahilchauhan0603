@@ -77,10 +77,6 @@
 
 ### 📜 Certifications
 <img src="https://img.shields.io/badge/IIT_Bombay-Advanced_Java_&_SQL-orange?style=for-the-badge&logo=iit&logoColor=white" alt="IIT Bombay Certified">  
-<img src="https://img.shields.io/badge/GeeksforGeeks-ML_&_Data_Science-blue?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Certified">  
-
-### 🎓 Learning & Development
-<img src="https://img.shields.io/badge/Google-Data_Analytics_Certificate-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Certified">
 
 ---
 
