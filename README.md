@@ -98,6 +98,24 @@
 
 ---
 
+### 🎥 HelloAI - AI-Powered Chat Application
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/ai-chat-app) 
+[![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=streamlit&logoColor=white)](https://helloai-5ucr.onrender.com/)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Stream Chat](https://img.shields.io/badge/Stream%20Chat-006CFF?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
+
+> Revolutionizing conversations with intelligent AI assistance and real-time interaction and web search. 
+✨ **Key Features**:  
+- AI-powered conversations – Get instant, context-aware responses
+- Multi-Context support – Chat with text, images, and documents
+- Real-time interaction – Seamless, fast, and human-like chatting
+- Personalized assistance – Tailored responses based on user needs
+- Secure & private – End-to-end encryption for safe communication  
+
+---
+
 ### 🏢 K&N TaxMarks Advisors - Professional Services Portal
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/K-N_TaxMarks_Advisors) 
 [![Live](https://img.shields.io/badge/Live_Demo-FF6F61?style=for-the-badge&logo=heroku&logoColor=white)](https://kandn-taxmarks-advisors.onrender.com/)
