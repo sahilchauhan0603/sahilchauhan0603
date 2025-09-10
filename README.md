@@ -106,14 +106,14 @@
 ![Stream Chat](https://img.shields.io/badge/Stream%20Chat-006CFF?style=flat-square&logo=streamlit&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
 
-> Revolutionizing conversations with intelligent AI assistance and real-time interaction and web search. 
+> Revolutionizing conversations with intelligent AI assistance and real-time interaction and web search.
 ✨ **Key Features**:  
 - AI-powered conversations – Get instant, context-aware responses
 - Multi-Context support – Chat with text, images, and documents
 - Real-time interaction – Seamless, fast, and human-like chatting
 - Personalized assistance – Tailored responses based on user needs
-- Secure & private – End-to-end encryption for safe communication  
-
+- Secure & private – End-to-end encryption for safe communication
+  
 ---
 
 ### 🏢 K&N TaxMarks Advisors - Professional Services Portal
