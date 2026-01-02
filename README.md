@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ5Z2R6eG1sZ2x0dXJtZzR2eGZ6dGJ2eGZ2NnBicWZ6bWZ6eGZ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right" alt="Coding Animation">
 </div>
 
-- 🔭 Currently working on **MERN stack projects**
+- 🔭 Currently working as a **SWE at Veersa Technologies**
 - 🌱 Learning **AWS Cloud Architecture & Microservices**
 - 👯 Looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Node.js or Competitive Programming**
