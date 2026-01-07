@@ -3,7 +3,7 @@
 
 <!-- Animated About Section -->
 <div align="center">
-  <img align="center" alt="Coding" width="800" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <img align="center" alt="Coding" width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
 <div align="center">
