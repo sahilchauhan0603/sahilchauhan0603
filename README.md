@@ -311,12 +311,14 @@ Hobbies: ["Coding", "Cricket", "Automotive Technology"]
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilchauhan0603&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF&title_color=00D9FF&icon_color=00C7B7&text_color=fff&bg_color=1a1b27" alt="GitHub Stats"/>
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilchauhan0603&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF&title_color=00D9FF&icon_color=00C7B7&text_color=fff&bg_color=1a1b27" alt="GitHub Stats"/> -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilchauhan0603&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilchauhan0603&theme=tokyonight&border=00D9FF&ring=00D9FF&fire=00C7B7&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchauhan0603&layout=compact&langs_count=8&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&text_color=fff&bg_color=1a1b27" alt="Top Languages"/>
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchauhan0603&layout=compact&langs_count=8&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&text_color=fff&bg_color=1a1b27" alt="Top Languages"/> -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchauhan0603&layout=compact&langs_count=8&theme=radical" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchauhan0603&theme=tokyo-night&bg_color=1a1b27&color=00D9FF&line=00C7B7&point=fff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
@@ -336,7 +338,7 @@ Hobbies: ["Coding", "Cricket", "Automotive Technology"]
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=sahilchauhan0603&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilchauhan0603&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
