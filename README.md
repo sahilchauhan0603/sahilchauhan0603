@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Sahil%20Chauhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Full-Stack+Web+Developer+%7C+SWE+at+Veersa+Technologies;Competitive+Programmer+%7C+Open-Source+Contributor;Passionate+About+Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Full-Stack+Web+Developer+%7C+SWE+at+Veersa+Technologies;Quality+Analyst+%7C+Open-Source+Contributor;Passionate+About+Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -18,26 +18,27 @@
 ## 🚀 About Me
 
 ```yaml
-name: Sahil Chauhan
-located_in: India
-current_role: Software Engineer @ Veersa Technologies
-education: ["B.Tech in Computer Science"]
+Name: Sahil Chauhan
+Located_in: India
+Current_Role: Software Engineer @ Veersa Technologies
+Education: ["B.Tech in Computer Science & Engineering"]
 
-fields_of_interests:
+Fields_Of_Interests:
   - Full-Stack Development
   - Cloud Architecture
-  - Competitive Programming
+  - Backend Development
+  - Software Testing
   - Open Source Contribution
   
-technical_background:
+Technical_Background:
   - Web Development (MERN Stack, Next.js)
-  - Backend Systems (Node.js, Express, Go)
-  - Cloud Technologies (AWS)
+  - Backend Systems (Node.js, Express, Go, Nest.js)
+  - Cloud Technologies (AWS, AZURE)
   - Database Design (MongoDB, PostgreSQL, MySQL)
   
-currently_learning: ["AWS Cloud Architecture", "Microservices", "System Design"]
+Currently_Learning: ["Cloud Architecture", "Microservices", "System Design"]
   
-hobbies: ["Coding", "Cricket", "Automotive Technology", "Tech Blogging"]
+Hobbies: ["Coding", "Cricket", "Automotive Technology"]
 ```
 
 <table>
@@ -46,9 +47,9 @@ hobbies: ["Coding", "Cricket", "Automotive Technology", "Tech Blogging"]
     
 ### 💼 Currently
 - 🔭 Working as **SWE at Veersa Technologies**
-- 🌱 Learning **AWS Cloud Architecture & Microservices**
+- 🌱 Learning **Cloud Architecture & Microservices**
 - 👯 Looking to collaborate on **Open-Source Projects**
-- 💬 Ask me about **React, Node.js, Competitive Programming**
+- 💬 Ask me about **MERN Stack, Software Testing**
 
   </td>
   <td valign="top" width="50%">
@@ -58,7 +59,7 @@ hobbies: ["Coding", "Cricket", "Automotive Technology", "Tech Blogging"]
 - 🚗 Deep passion for **automotive technology**
 - 🏏 Cricket enthusiast
 - 📝 Love writing tech blogs
-- 🎯 500+ LeetCode problems solved
+- 🎯 600+ LeetCode problems solved
     
   </td>
 </tr>
