@@ -336,7 +336,7 @@ Hobbies: ["Coding", "Cricket", "Automotive Technology"]
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilchauhan0603&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/? username=sahilchauhan0603&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
