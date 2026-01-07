@@ -163,54 +163,7 @@ Hobbies: ["Coding", "Cricket", "Automotive Technology"]
 
 ## 📌 Featured Projects
 
-<div align="center">
-  
-### 🎯 JobQuest - AI-Powered Job Matching Platform
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/JobQuest) 
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://jobquest-n8r2.onrender.com/)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-<p align="left">
-🎯 <b>Revolutionizing job search with intelligent matching and real-time tracking</b>
-</p>
-
-**✨ Key Features:**
-🤖 **AI-Driven Recommendations** - Smart job matching algorithm
-- 📊 **Application Dashboard** - Track all applications in one place  
-- 📧 **Automated Notifications** - Never miss an update
-- 💼 **Employer Analytics** - Comprehensive hiring insights
-- 🔐 **Secure Authentication** - JWT-based user management
-
----
-
-### 💬 HelloAI - AI-Powered Chat Application
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/ai-chat-app) 
-[![Live](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://helloai-5ucr.onrender.com/)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Stream Chat](https://img.shields.io/badge/Stream%20Chat-005FFF?style=flat-square&logo=streamlit&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75FF?style=flat-square&logo=google&logoColor=white)
-
-<p align="left">
-💬 <b>Intelligent conversations powered by cutting-edge AI technology</b>
-</p>
-
-**✨ Key Features:**
-- 🧠 **AI-Powered Conversations** - Get instant, context-aware responses
-- 🖼️ **Multi-Context Support** - Chat with text, images, and documents
-- ⚡ **Real-Time Interaction** - Seamless, fast, and human-like chatting
-- 🎯 **Personalized Assistance** - Tailored responses based on user needs
-- 🔒 **Secure & Private** - End-to-end encryption for safe communication
-- 🌐 **Web Search Integration** - Get real-time information from the web
-
----
+<div align="left">
 
 ### 🏢 K&N TaxMarks Advisors - Professional Services Portal
 
@@ -250,6 +203,53 @@ Hobbies: ["Coding", "Cricket", "Automotive Technology"]
 - 👨‍🏫 **Faculty Dashboard** - Comprehensive teaching tools  
 - ✅ **Attendance Tracking** - Automated attendance system
 - 📊 **Grade Management** - Digital gradebook and reports
+
+---
+
+### 🎯 JobQuest - AI-Powered Job Matching Platform
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/JobQuest) 
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://jobquest-n8r2.onrender.com/)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+<p align="left">
+🎯 <b>Revolutionizing job search with intelligent matching and real-time tracking</b>
+</p>
+
+**✨ Key Features:**
+- 🤖 **AI-Driven Recommendations** - Smart job matching algorithm
+- 📊 **Application Dashboard** - Track all applications in one place  
+- 📧 **Automated Notifications** - Never miss an update
+- 💼 **Employer Analytics** - Comprehensive hiring insights
+- 🔐 **Secure Authentication** - JWT-based user management
+
+---
+
+### 💬 HelloAI - AI-Powered Chat Application
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/ai-chat-app) 
+[![Live](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://helloai-5ucr.onrender.com/)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Stream Chat](https://img.shields.io/badge/Stream%20Chat-005FFF?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75FF?style=flat-square&logo=google&logoColor=white)
+
+<p align="left">
+💬 <b>Intelligent conversations powered by cutting-edge AI technology</b>
+</p>
+
+**✨ Key Features:**
+- 🧠 **AI-Powered Conversations** - Get instant, context-aware responses
+- 🖼️ **Multi-Context Support** - Chat with text, images, and documents
+- ⚡ **Real-Time Interaction** - Seamless, fast, and human-like chatting
+- 🎯 **Personalized Assistance** - Tailored responses based on user needs
+- 🔒 **Secure & Private** - End-to-end encryption for safe communication
+- 🌐 **Web Search Integration** - Get real-time information from the web
 
 </div>
 
