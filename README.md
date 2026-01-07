@@ -1,237 +1,366 @@
-<!-- Header with Animated Banner -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5hZ3R5d2Z1bW5qZzF5a3VlZ2N4dGJ2eGZ2NnBicWZ6bWZ6eGZ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Banner" width="600" height="300"/>
-</div>
-
-# 💫 Hi, I'm Sahil Chauhan! 👋 
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Sahil%20Chauhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF80&width=500&lines=Full-Stack+Web+Developer;Competitive+Programmer;Open-Source+Contributor;Tech+Blogger;Cricket+Enthusiast%20%F0%9F%93%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Web+Developer+%7C+SWE+at+Veersa+Technologies;Competitive+Programmer+%7C+Open-Source+Contributor;Passionate+About+Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahilchauhan0603&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/sahilchauhan0603?tab=followers">
+    <img src="https://img.shields.io/github/followers/sahilchauhan0603?label=Followers&style=for-the-badge&color=00C7B7&labelColor=1a1b27" alt="GitHub Followers">
+  </a>
+  <img src="https://img.shields.io/github/stars/sahilchauhan0603?style=for-the-badge&color=00D9FF&labelColor=1a1b27" alt="GitHub Stars">
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ5Z2R6eG1sZ2x0dXJtZzR2eGZ6dGJ2eGZ2NnBicWZ6bWZ6eGZ4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right" alt="Coding Animation">
-</div>
+```yaml
+name: Sahil Chauhan
+located_in: India
+current_role: Software Engineer @ Veersa Technologies
+education: ["B.Tech in Computer Science"]
 
-- 🔭 Currently working as a **SWE at Veersa Technologies**
+fields_of_interests:
+  - Full-Stack Development
+  - Cloud Architecture
+  - Competitive Programming
+  - Open Source Contribution
+  
+technical_background:
+  - Web Development (MERN Stack, Next.js)
+  - Backend Systems (Node.js, Express, Go)
+  - Cloud Technologies (AWS)
+  - Database Design (MongoDB, PostgreSQL, MySQL)
+  
+currently_learning: ["AWS Cloud Architecture", "Microservices", "System Design"]
+  
+hobbies: ["Coding", "Cricket", "Automotive Technology", "Tech Blogging"]
+```
+
+<table>
+<tr>
+  <td valign="top" width="50%">
+    
+### 💼 Currently
+- 🔭 Working as **SWE at Veersa Technologies**
 - 🌱 Learning **AWS Cloud Architecture & Microservices**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Node.js or Competitive Programming**
-- ⚡ Fun fact: **I have a deep passion and strong knowledge of cars — from understanding engine specs and performance to tracking the latest models and innovations in the automotive industry.**
-- 📫 How to reach me: **[sahilchauhan0603@gmail.com](mailto:sahilchauhan0603@gmail.com)**
+- 👯 Looking to collaborate on **Open-Source Projects**
+- 💬 Ask me about **React, Node.js, Competitive Programming**
 
----
+  </td>
+  <td valign="top" width="50%">
+    
+### ⚡ Quick Facts
+- 📫 Reach me at: **sahilchauhan0603@gmail.com**
+- 🚗 Deep passion for **automotive technology**
+- 🏏 Cricket enthusiast
+- 📝 Love writing tech blogs
+- 🎯 500+ LeetCode problems solved
+    
+  </td>
+</tr>
+</table>
 
-## 🛠 Tech Stack
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+</details>
 
-### ⚙️ Backend
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### 🗃️ Databases
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 🛠 Developer Tools
+</details>
+
+<details open>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Technologies</b></summary>
+<br>
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+</details>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🏆 Achievements & Certifications
 
-### 🏅 Hackathons & Competitions
-<img src="https://img.shields.io/badge/SIH_Internal_Hackathon_2024-Qualified-blue?style=for-the-badge&logo=codechef&logoColor=white" alt="SIH Hackathon Qualified">  
-<img src="https://img.shields.io/badge/Hackathon-Finalist-green?style=for-the-badge&logo=codeforces&logoColor=white" alt="Hackathon Finalist">
+<table>
+<tr>
+  <th>🏅 Category</th>
+  <th>📌 Achievement/Certification</th>
+  <th>🔗 Details</th>
+</tr>
+<tr>
+  <td><b>Hackathons</b></td>
+  <td>SIH Internal Hackathon 2024</td>
+  <td><img src="https://img.shields.io/badge/Status-Qualified-00C7B7?style=flat-square&logo=hackaday" alt="Qualified"></td>
+</tr>
+<tr>
+  <td><b>Competitions</b></td>
+  <td>National Hackathon</td>
+  <td><img src="https://img.shields.io/badge/Status-Finalist-00D9FF?style=flat-square&logo=trophy" alt="Finalist"></td>
+</tr>
+<tr>
+  <td><b>Certifications</b></td>
+  <td>Advanced Java & SQL</td>
+  <td><img src="https://img.shields.io/badge/IIT_Bombay-Certified-FF6B6B?style=flat-square&logo=google-scholar" alt="IIT Bombay"></td>
+</tr>
+</table>  
 
-### 📜 Certifications
-<img src="https://img.shields.io/badge/IIT_Bombay-Advanced_Java_&_SQL-orange?style=for-the-badge&logo=iit&logoColor=white" alt="IIT Bombay Certified">  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
----
+## 📌 Featured Projects
 
-## 📌 Pinned Projects
+<div align="center">
+  
+### 🎯 JobQuest - AI-Powered Job Matching Platform
 
-### 🎥 JobQuest - AI-Powered Job Matching Platform
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/JobQuest) 
-[![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=streamlit&logoColor=white)](https://jobquest-n8r2.onrender.com/)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://jobquest-n8r2.onrender.com/)
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-> Revolutionizing job search with intelligent matching and real-time tracking  
-✨ **Key Features**:  
-- AI-driven job recommendations  
-- Application status dashboard  
-- Automated email notifications  
-- Employer analytics portal  
+<p align="left">
+🎯 <b>Revolutionizing job search with intelligent matching and real-time tracking</b>
+</p>
+
+**✨ Key Features:**
+- 🤖 **AI-Driven Recommendations** - Smart job matching algorithm
+- 📊 **Application Dashboard** - Track all applications in one place  
+- 📧 **Automated Notifications** - Never miss an update
+- 💼 **Employer Analytics** - Comprehensive hiring insights
+- 🔐 **Secure Authentication** - JWT-based user management
 
 ---
 
-### 🎥 HelloAI - AI-Powered Chat Application
+### 💬 HelloAI - AI-Powered Chat Application
+
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/ai-chat-app) 
-[![Live](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=streamlit&logoColor=white)](https://helloai-5ucr.onrender.com/)
+[![Live](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://helloai-5ucr.onrender.com/)
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Stream Chat](https://img.shields.io/badge/Stream%20Chat-006CFF?style=flat-square&logo=streamlit&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
+![Stream Chat](https://img.shields.io/badge/Stream%20Chat-005FFF?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75FF?style=flat-square&logo=google&logoColor=white)
 
-> Revolutionizing conversations with intelligent AI assistance and real-time interaction and web search.
-✨ **Key Features**:  
-- AI-powered conversations – Get instant, context-aware responses
-- Multi-Context support – Chat with text, images, and documents
-- Real-time interaction – Seamless, fast, and human-like chatting
-- Personalized assistance – Tailored responses based on user needs
-- Secure & private – End-to-end encryption for safe communication
-  
+<p align="left">
+💬 <b>Intelligent conversations powered by cutting-edge AI technology</b>
+</p>
+
+**✨ Key Features:**
+- 🧠 **AI-Powered Conversations** - Get instant, context-aware responses
+- 🖼️ **Multi-Context Support** - Chat with text, images, and documents
+- ⚡ **Real-Time Interaction** - Seamless, fast, and human-like chatting
+- 🎯 **Personalized Assistance** - Tailored responses based on user needs
+- 🔒 **Secure & Private** - End-to-end encryption for safe communication
+- 🌐 **Web Search Integration** - Get real-time information from the web
+
 ---
 
 ### 🏢 K&N TaxMarks Advisors - Professional Services Portal
+
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/K-N_TaxMarks_Advisors) 
-[![Live](https://img.shields.io/badge/Live_Demo-FF6F61?style=for-the-badge&logo=heroku&logoColor=white)](https://kandn-taxmarks-advisors.onrender.com/)
+[![Live](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=heroku&logoColor=white)](https://kandn-taxmarks-advisors.onrender.com/)
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-> Comprehensive tax and legal advisory platform  
-✨ **Key Features**:  
-- Client management system  
-- Secure document sharing  
-- Appointment scheduling  
-- Billing and invoicing  
+<p align="left">
+💼 <b>Comprehensive tax and legal advisory platform for professionals</b>
+</p>
+
+**✨ Key Features:**
+- 👥 **Client Management** - Organized client database system  
+- 📁 **Secure Document Sharing** - Encrypted file transfers
+- 📅 **Appointment Scheduling** - Automated booking system
+- 💰 **Billing & Invoicing** - Streamlined payment processing
 
 ---
 
 ### 🏫 BPIT CampusPro - College ERP System
+
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/ERP_Student) 
 [![Live](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://erpstudent.tech/)
+
 ![MERN](https://img.shields.io/badge/MERN-00C200?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-> Institutional management solution for BPIT  
-✨ **Key Features**:  
-- Student registration portal  
-- Faculty dashboard  
-- Attendance tracking  
-- Grade management system  
+<p align="left">
+🎓 <b>Complete institutional management solution for BPIT College</b>
+</p>
+
+**✨ Key Features:**
+- 📝 **Student Registration** - Streamlined admission portal
+- 👨‍🏫 **Faculty Dashboard** - Comprehensive teaching tools  
+- ✅ **Attendance Tracking** - Automated attendance system
+- 📊 **Grade Management** - Digital gradebook and reports
+
+</div>
 
 <details>
-<summary><b>🖌️ More Projects</b></summary>
+<summary><b>🌟 More Exciting Projects</b></summary>
+<br>
 
-#### 🎨 Canvas Draw - Collaborative Drawing App
+<div align="center">
+
+### 🎨 Canvas Draw - Collaborative Drawing App
+
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilchauhan0603/Canvas_Draw_VS) 
 [![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://canvas-draw-wheat.vercel.app/)
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-> Real-time collaborative drawing platform  
-✨ **Features**: Multi-user canvas, color palette, brush customization
+<p align="left">
+🎨 <b>Real-time collaborative drawing platform for creative teams</b>
+</p>
+
+**✨ Features:**
+- 👥 **Multi-User Canvas** - Draw together in real-time
+- 🎨 **Rich Color Palette** - Unlimited color options
+- 🖌️ **Brush Customization** - Adjustable sizes and styles
+- 💾 **Auto-Save** - Never lose your artwork
+
+</div>
+
 </details>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 👨‍💻 Competitive Programming & Coding Profiles
+
+<div align="center">
+
+### 📊 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sahil0603?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/sahil0603/)
+
+<br>
+
+### 🔗 Coding Platforms
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-500+_Problems-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/sahil0603/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Contributor-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sahilchaucyel/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Competitive_Coder-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/nice_king_802)
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilchauhan0603&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilchauhan0603&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilchauhan0603&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF&title_color=00D9FF&icon_color=00C7B7&text_color=fff&bg_color=1a1b27" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilchauhan0603&theme=tokyonight&border=00D9FF&ring=00D9FF&fire=00C7B7&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchauhan0603&layout=compact&langs_count=8&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilchauhan0603&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchauhan0603&layout=compact&langs_count=8&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&text_color=fff&bg_color=1a1b27" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchauhan0603&theme=tokyo-night&color=00D9FF&line=00C7B7&point=fff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilchauhan0603&theme=radical" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilchauhan0603&theme=tokyonight" width="98%"/>
 </div>
 
----
+### 🐍 Contribution Snake
 
-## 👨‍💻 Coding Profiles
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilchauhan0603/sahilchauhan0603/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilchauhan0603/sahilchauhan0603/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sahilchauhan0603/sahilchauhan0603/output/github-contribution-grid-snake.svg">
+</picture>
 
-<div align="center">
-  <a href="https://leetcode.com/sahil0603/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/sahilchaucyel/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks">
-  </a>
-  <a href="https://www.codechef.com/users/nice_king_802">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
-  </a>
-</div>
-
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilchauhan0603&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilchauhan0603&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7&row=1" alt="GitHub Trophies" />
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sahil-chauhan-a6a626265/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/TheSahil061003">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/sahilchauhan0603/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:sahilchauhan0603@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-chauhan-a6a626265/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TheSahil061003)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahilchauhan0603/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilchauhan0603@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sahil0603/)
+
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## ✍️ Random Dev Quote
+## 💭 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<!-- Animated Footer -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilchauhan0603&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <a href="https://github.com/sahilchauhan0603?tab=followers">
-    <img src="https://img.shields.io/github/followers/sahilchauhan0603?label=Followers&style=social" alt="GitHub Followers">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaboration+and+new+opportunities!+%F0%9F%92%BC" alt="Footer Typing SVG" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
