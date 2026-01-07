@@ -58,7 +58,7 @@ Hobbies: ["Coding", "Cricket", "Automotive Technology"]
 - 📫 Reach me at: **sahilchauhan0603@gmail.com**
 - 🚗 Deep passion for **automotive technology**
 - 🏏 Cricket enthusiast
-- 📝 Love discovering and mastering new technologies
+- 📝 Love exploring new tech
 - 🎯 600+ LeetCode problems solved
     
   </td>
@@ -257,7 +257,7 @@ Hobbies: ["Coding", "Cricket", "Automotive Technology"]
 <summary><b>🌟 More Exciting Projects</b></summary>
 <br>
 
-<div align="center">
+<div align="left">
 
 ### 🎨 Canvas Draw - Collaborative Drawing App
 
