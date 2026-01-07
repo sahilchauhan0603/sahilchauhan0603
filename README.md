@@ -315,9 +315,13 @@ Hobbies: ["Coding", "Cricket", "Automotive Technology"]
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilchauhan0603&theme=tokyonight&border=00D9FF&ring=00D9FF&fire=00C7B7&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilchauhan0603&theme=tokyonight&border=00D9FF" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchauhan0603&theme=tokyo-night&bg_color=1a1b27&color=00D9FF&line=00C7B7&point=fff&area=true&border=00D9FF&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+</div> -->
+<div align="center">
+  <img width="49%" height="200" src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=sahilchauhan0603&theme=tokyonight" alt="Top Languages"/>
+  <img width="49%" height="200" src="https://github-readme-activity-graph.vercel. app/graph?username=sahilchauhan0603&theme=tokyo-night&bg_color=1a1b27&color=00D9FF&line=00C7B7&point=fff&area=true&custom_title=Contribution%20Graph&height=200" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
