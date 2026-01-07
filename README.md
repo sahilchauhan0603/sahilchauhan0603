@@ -49,7 +49,7 @@ Hobbies: ["Coding", "Cricket", "Automotive Technology"]
 - 🔭 Working as **SWE at Veersa Technologies**
 - 🌱 Learning **Cloud Architecture & Microservices**
 - 👯 Looking to collaborate on **Open-Source Projects**
-- 💬 Ask me about **MERN Stack, Software Testing**
+- 💬 Ask me about **MERN Stack & Software Testing**
 
   </td>
   <td valign="top" width="50%">
@@ -58,7 +58,7 @@ Hobbies: ["Coding", "Cricket", "Automotive Technology"]
 - 📫 Reach me at: **sahilchauhan0603@gmail.com**
 - 🚗 Deep passion for **automotive technology**
 - 🏏 Cricket enthusiast
-- 📝 Love writing tech blogs
+- 📝 Love discovering and mastering new technologies
 - 🎯 600+ LeetCode problems solved
     
   </td>
@@ -180,7 +180,7 @@ Hobbies: ["Coding", "Cricket", "Automotive Technology"]
 </p>
 
 **✨ Key Features:**
-- 🤖 **AI-Driven Recommendations** - Smart job matching algorithm
+🤖 **AI-Driven Recommendations** - Smart job matching algorithm
 - 📊 **Application Dashboard** - Track all applications in one place  
 - 📧 **Automated Notifications** - Never miss an update
 - 💼 **Employer Analytics** - Comprehensive hiring insights
