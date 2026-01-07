@@ -1,0 +1,3 @@
+# Keep the dist folder for snake animation SVGs
+# We want to track generated assets
+# !dist/

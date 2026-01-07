@@ -311,7 +311,7 @@ hobbies: ["Coding", "Cricket", "Automotive Technology", "Tech Blogging"]
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchauhan0603&layout=compact&langs_count=8&theme=tokyonight&border_color=00D9FF&title_color=00D9FF&text_color=fff&bg_color=1a1b27" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchauhan0603&theme=tokyo-night&color=00D9FF&line=00C7B7&point=fff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilchauhan0603&theme=tokyo-night&bg_color=1a1b27&color=00D9FF&line=00C7B7&point=fff&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
@@ -321,9 +321,9 @@ hobbies: ["Coding", "Cricket", "Automotive Technology", "Tech Blogging"]
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilchauhan0603/sahilchauhan0603/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilchauhan0603/sahilchauhan0603/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sahilchauhan0603/sahilchauhan0603/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilchauhan0603/sahilchauhan0603/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilchauhan0603/sahilchauhan0603/main/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sahilchauhan0603/sahilchauhan0603/main/dist/github-contribution-grid-snake.svg">
 </picture>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
