@@ -313,7 +313,7 @@ Hobbies: ["Coding", "Cricket", "Automotive Technology"]
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahilchauhan0603&show_icons=true&theme=tokyonight&border=00D9FF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilchauhan0603&theme=tokyonight&border=00D9FF&ring=00D9FF&fire=00C7B7&currStreakLabel=00D9FF" alt="GitHub Streak"/> -->
-  <img width="49%" src="https://streak-stats.demolab.com/?user=sahilchauhan0603&theme=tokyonight&border=00D9FF&ring=00D9FF&fire=00C7B7&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sahilchauhan0603&theme=tokyonight&border=00D9FF&ring=00D9FF&fire=00C7B7&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
